@@ -1,14 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="version" content=<%= htmlWebpackPlugin.options.version %>
+    <meta charset="UTF-8">
+    <title>Happergy</title>
+    <meta name="description" content="Controla los mejores precios de la luz y planifica tus electrodomesticos.">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, minimum-scale=1">
+    <meta name="apple-mobile-web-app-title" content="Happergy">
+    <link href="css/fonts.css" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="./icons/icon-180x180.png">
+    <link rel="icon" type="image/png" href="./icons/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title></title>
     <!-- Plugins CSS -->
-    <link
-      rel="stylesheet"
-      href="./plugins/bootstrap-4.3.1/css/bootstrap.min.css"
+    <link rel="stylesheet" href="./plugins/bootstrap-4.3.1/css/bootstrap.min.css"
     />
     <!--<link rel="stylesheet" href="./plugins/meanmenu/meanmenu.css" />
     <link rel="stylesheet" href="./plugins/slick-1.8.1/slick.css" />
@@ -44,10 +48,10 @@
             <div class=" col-6 col-sm-1 col-lg-6 col-xl-8   position-static order-lg-2">
               <div class="main-navigation ">
                 <ul class="main-menu">
-                  <li class="menu-item"><a href="#">Contacto</a></li>
+                  <li class="menu-item"><a href="mailto:hola@happergy.es">Contacto</a></li>
 								</ul>
 								<div class="header-btns justify-content-end">
-									<a href="htpps://app.happergy.es" class="btn btn--primary btn--medium">Empezar a ahorrar</a>
+									<a href="htpps://app.happergy.es" class="btn btn--primary btn--large">Empieza a ahorrar</a>
 								</div>
 							</div>
 
@@ -228,10 +232,9 @@
                   <span>01</span>
                 </div>
                 <div class="content">
-                  <h6 class="title">Modern design</h6>
+                  <h6 class="title">Infórmate</h6>
                   <p>
-                    Create custom landing pages with Berlin that convert more
-                    visitors than any website.
+                    Encuentra el momento del día dónde la luz tiene el menor precio.
                   </p>
                 </div>
               </div>
@@ -243,10 +246,9 @@
                   <span>02</span>
                 </div>
                 <div class="content">
-                  <h6 class="title">Easy to find</h6>
+                  <h6 class="title">Planifica</h6>
                   <p>
-                    Create custom landing pages with Berlin that convert more
-                    visitors than any website.
+                    Prepara el uso de tus electrodomesticos con antelación para obtener el máximo ahorro.
                   </p>
                 </div>
               </div>
@@ -258,10 +260,9 @@
                   <span>03</span>
                 </div>
                 <div class="content">
-                  <h6 class="title">Quick booking</h6>
+                  <h6 class="title">Programa</h6>
                   <p>
-                    Create custom landing pages with Berlin that convert more
-                    visitors than any website.
+                    Haz que los electrodomesticos con el mayor consumo se enciendan en el momento óptimo.
                   </p>
                 </div>
               </div>
@@ -288,14 +289,12 @@
                 class="col-sm-10 col-md-7 col-lg-6 offset-md-1 col-xl-5 order-2 order-md-1">
                 <div class="badge" data-aos="fade-up"  data-aos-duration="1000" data-aos-delay="300" data-aos-once="true">
                   <i class="fas fa-bolt"></i>
-                  <span>new feature</span>
+                  <span>Planifica</span>
                 </div>
                 <div class="content-right-content" data-aos="fade-up"  data-aos-duration="1000" data-aos-delay="500" data-aos-once="true">
-                  <h2 class="title h2">Explore the things you never saw.</h2>
+                  <h2 class="title h2">A tu manera</h2>
                   <p>
-                    Create custom landing pages with Berlin that convert more
-                    visitors than any website. With lots of unique blocks, you
-                    can easily build a page without coding.
+                    ¡Tu mandas!
                   </p>
                 </div>
               </div>
@@ -310,14 +309,17 @@
         <div class="container">
           <div class="content-wrapper">
             <div class="row justify-content-center">
-              <div class="col-xl-5 col-lg-4 col-md-4 col-sm-7 col-7 order-1">
+              <!-- <div class="col-xl-5 col-lg-4 col-md-4 col-sm-7 col-7 order-1">
                 <div class="content-image-01"data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
                   <img src="image/iPhone 2.png" alt="" />
                 </div>
-              </div>
+              </div> -->
 
-              <div class=" col-md-8 col-lg-7 col-xl-6 offset-lg-1 offset-xl-1 order-2" data-aos="fade-up"  data-aos-duration="1500" data-aos-once="true">
-                <h2 class="title h2">Present some awesome features.</h2>
+              <!-- <div class=" col-sm-8 col-lg-7 col-xl-1 offset-lg-1 offset-xl-1 order-2" data-aos="fade-up"  data-aos-duration="1500" data-aos-once="true"> -->
+              <div class=" col-sm-12" data-aos="fade-up"  data-aos-duration="1500" data-aos-once="true">
+                <h2 class="title h2">¿Quieres saber más sobre la PVPC?</h2>
+
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ORjMZNiy4Ss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                 <div class="content-widgets">
                   <div class="content-widget-wrapper">
@@ -327,10 +329,11 @@
                       </div>
 
                       <div class="content">
-                        <h6 class="widget-title">Super Organized</h6>
+                        <h6 class="widget-title">¿Qué es la PVPC?</h6>
                         <p>
-                          Create custom landing pages with Berlin that convert
-                          more visitors than any website.
+                          La tarifa regulada PVPC (o Precio Voluntario para el Pequeño Consumidor)
+                          es un sistema para determinar el precio de la luz implantado por el Gobierno
+                          para todos los clientes del mercado eléctrico regulado.
                         </p>
                       </div>
                     </div>
@@ -341,10 +344,120 @@
                       </div>
 
                       <div class="content">
-                        <h6 class="widget-title">Super Organized</h6>
+                        <h6 class="widget-title">¿Qué compañías ofrecen PVPC?</h6>
                         <p>
-                          Create custom landing pages with Berlin that convert
-                          more visitors than any website.
+                          Sólo se pueden contratar con las Comercializadoras de Referencia:
+                          <ul>
+                            <li>Energía XXI Comercializadora de Referencia, S.L. (Grupo Endesa)</li>
+                            <li>Curenergía Comercializador de Último Recurso, S.A.U. (Grupo Iberdrola)</li>
+                            <li>Comercializadora Regulada, Gas &amp; Power, S.A. (Grupo Naturgy)</li>
+                            <li>Régsiti Comercializadora Regulada, S.L.U. (Grupo Repsol)</li>
+                            <li>Baser Comercializadora de Referencia, S.A. (Grupo EDP)</li>
+                            <li>Teramelcor, S.L. (Melilla).</li>
+                            <li>Energía Ceuta XXI Comercializadora de Referencia, S.A.U. (Grupo Endesa)</li>
+                            <li>Comercializador de Referencia Energético, S.L.U. (grupo CHC)</li>
+                          </ul>
+                        </p>
+                      </div>
+                    </div>
+                    <div class="content-widget">
+                      <div class="widget-icon">
+                        <i class="icon icon-layers-3"></i>
+                      </div>
+
+                      <div class="content">
+                        <h6 class="widget-title">¿Cuántos tramos existen?</h6>
+                        <p>
+                          La tarifa PVPC puede ser contratada con o sin discriminación horaria
+                        </p>
+                        <p>
+                          La tarifa 2.0A es la tarifa general sin discriminación horaria.
+                        </p>
+                        <p>
+                          La tarifa 2.0DHA corresponde a la de discriminación horaria en <b>dos periodos</b>, diferenciados en horas valle y horas punta.
+                        </p>
+                        <div class="table--responsive tabla-70 tabla-3" itemscope="" itemtype="http://schema.org/PriceSpecification">
+                          <table class="table table--bordered">
+                            <caption class="title" itemprop="name">Horario Tarifa PVPC con discriminación horaria (2 periodos)</caption>
+                            <thead class="thead--inverse">
+                            </thead>
+                            <tbody class="cell--center">
+                              <tr>
+                                <th class="cell--center"><strong>Horario</strong></th>
+                                <th class="cell--center"><strong>Horas valle</strong></th>
+                                <th class="cell--center"><strong>Horas punta</strong></th>
+                              </tr>
+                              <tr>
+                                <td class="cell--center">Invierno</td>
+                                <td class="cell--center">22:00h a 12:00h</td>
+                                <td class="cell--center">12:00h a 22:00h</td>
+                              </tr>
+                              <tr>
+                                <td class="cell--center">Verano</td>
+                                <td class="cell--center">23:00h a 13:00h</td>
+                                <td class="cell--center">13:00h a 23:00h</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </div>
+                        <p>
+                          La tarifa 2.0DHS corresponde a la de discriminación horaria en <b>tres periodos</b>, diferenciados en horas valle y horas punta.
+                        </p>
+                        <div class="table--responsive tabla-70 tabla-3" itemscope="">
+                          <table class="table table--bordered">
+                            <caption class="title" itemprop="name">Horario Tarifa PVPC con discriminación horaria (3 periodos)</caption>
+                            <thead class="thead--inverse">
+                            </thead>
+                            <tbody class="cell--center">
+                              <tr>
+                                <th class="cell--center"><strong>Horas supervalle</strong></th>
+                                <th class="cell--center"><strong>Horas valle</strong></th>
+                                <th class="cell--center"><strong>Horas punta</strong></th>
+                              </tr>
+                              <tr>
+                                <td class="cell--center">01:00h a 07:00h</td>
+                                <td class="cell--center">23:00h a 01:00h<br>
+                                y de 07:00h 13:00h</td>
+                                <td class="cell--center">13:00h a 23:00h</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="content-widget">
+                      <div class="widget-icon">
+                        <i class="icon icon-layers-3"></i>
+                      </div>
+
+                      <div class="content">
+                        <h6 class="widget-title">¿Qué hora es más barata la electricidad?</h6>
+                        <p>
+                          La hora mas barata dependerá de los tramos que tengas contratados,
+                          pero consultando Happergy podrás ver fácilmente el mejor momento.
+                        </p>
+                      </div>
+                    </div>
+
+                    <div class="content-widget">
+                      <div class="widget-icon">
+                        <i class="icon icon-layers-3"></i>
+                      </div>
+
+                      <div class="content">
+                        <h6 class="widget-title">¿Cómo funciona Happergy?</h6>
+                        <p>
+                          Nosotros nos preocupamos de cada día preguntarle a REE el precio de la luz
+                          del día actual y del siguiente.
+                        </p>
+                        <p>
+                          Buscamos con la configuración de horas y duración del programa del electrodomestico
+                          el momento óptimo para que puedas gastar el mínimo.
+                        </p>
+                        <p>
+                          Te presentamos la información de forma clara e intuitiva para que solo tengas
+                          que programar y olvidarte.
                         </p>
                       </div>
                     </div>
@@ -357,7 +470,7 @@
       </section>
 
       <!-- Example Section -->
-      <section class="example-section position-relative section-padding">
+      <!-- <section class="example-section position-relative section-padding">
         <div class="row justify-content-center">
           <div class="col-xl-8 col-lg-10 col-md-10 col-sm-12 col-12">
             <div class="section-title">
@@ -402,7 +515,7 @@
 							</div>
 					</div>
         </div>
-      </section>
+      </section> -->
 
       <!-- Testimonial -->
       <section class="testimonial-section section-padding">
@@ -410,11 +523,9 @@
           <div class="row justify-content-center">
             <div class="col-xl-8 col-lg-10 col-md-10 col-sm-12 col-12">
               <div class="section-title mb--40 mb-xl--60" >
-                <h2 class="testimonial-title h2">What people say about us</h2>
+                <h2 class="testimonial-title h2">¿Qué dice la gente de nosotros?</h2>
                 <p>
-                  Create custom landing pages with Berlin that convert more
-                  visitors than any website. <br class="d-none d-lg-block"> With lots of unique blocks, you can
-                  easily build a page without coding.
+                  Pon Happergy en tu día a día y notarás la diferencia.
                 </p>
               </div>
             </div>
@@ -428,12 +539,12 @@
 
 								<div class="content">
 									<p>
-										“Amazing experience i love it a lot. Thanks to the team
-										dreams come true, great! I really super appreciate there
-										approach om”
+                    “Desde que uso Happergy estoy ahorrando unos 60€ al año sólo por
+                    usar los electrodomesticos cuando és mas barato. Ya no he vuelto a poner el
+                    lavavajillas sin consultar el mejor momento a través de la app y se nota.”
 									</p>
-									<span class="name">Evan Holland</span> <br />
-									<span class="job">Art Director</span>
+									<span class="name">Marc Ferret</span> <br />
+									<span class="job">Usuario</span>
 								</div>
 							</div>
 						</div>
@@ -447,12 +558,11 @@
 
 								<div class="content">
 									<p>
-										“Amazing experience i love it a lot. Thanks to the team
-										dreams come true, great! I really super appreciate there
-										approach om”
+                    “Gracias a Happergy conocí la tarifa PVPC, pude elegir los tramos que mas me convenían y
+                    he notado un ahorro increible con muy poco esfuerzo.”
 									</p>
-									<span class="name">Evan Holland</span> <br />
-									<span class="job">Art Director</span>
+									<span class="name">Jordi Turull</span> <br />
+									<span class="job">Usuario</span>
 								</div>
 							</div>
 						</div>
@@ -465,24 +575,21 @@
       <section class="cta-section position-relative section-padding ">
         <div class="container">
           <div class="cta-wrapper">
+            <a href="https://app.happergy.es" >
             <div class="cta-icon" >
               <i class="fas fa-download"></i>
             </div>
+          </a>
 
-            <h2 class="cta-title h2">Download it now</h2>
+            <h2 class="cta-title h2">Pruébala ahora</h2>
             <div class="cta-btns mb--30">
-              <a href="#" class="android btn btn--primary btn--large"
-                ><i class="fab fa-android"></i
-                ><span class="p2">Download for Android</span></a
-              >
-              <a href="#" class="apple btn btn--primary btn--large"
-                ><i class="fab fa-apple"></i
-                ><span class="p2">Download for iOS</span></a
-              >
+              <a href="https://app.happergy.es" class="btn btn--primary btn--large">
+                <span class="p2">Empieza a ahorrar</span>
+              </a>
             </div>
             <p>
-              Tell your visitors why they should download your app. <br> Two lines
-              can be enough here.
+              Instala la app en tu smartphone con el botón de compartir y<br>
+              la tendrás siempre al alcance de tu mano.
             </p>
           </div>
         </div>
@@ -495,7 +602,7 @@
 
       <section class="footer-section section-padding-top">
         <div class="container">
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-12 col-lg-1">
               <div class="footer-icon">
                 <i class="fas fa-chess-pawn"></i>
@@ -519,24 +626,25 @@
                   </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                  <span class="contact-title p1">Contacts</span>
+                  <span class="contact-title p1">Contacto</span>
 
                   <div class="footer-address">
-                    <p>contact@grayic.com</p>
+                    <p>hola@happergy.es</p>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <div class="row align-items-center mt--30 mt-md--50 mt-lg--80  section-padding-top">
             <div class="col-lg-3 col-md-3 col-sm-4 col-8">
+              <p><span class="contact-title p1">Contacto:</span> hola@happergy.es</p>
               <p class="footer-copyright-text text-lg-left p3">
-                ©2019 All right reserved.
+                ©2021 Todos los derechos reservados.
               </p>
             </div>
 
-            <div
+            <!-- <div
               class="col-lg-2 col-md-2 offset-md-4 col-sm-4 offset-sm-3 offset-lg-7 offset-xl-6 col-4"
             >
               <ul class="footer-social-list">
@@ -556,7 +664,7 @@
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> -->
           </div>
         </div>
       </section>
