@@ -1,0 +1,33 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "Landing of Happergy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Happergy/landing.git"
+  },
+  "scripts": {
+    "dev": "webpack -d",
+    "pro": "webpack -p"
+  },
+  "author": "Marc Ferret, Jordi Turull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Happergy/landing/issues"
+  },
+  "homepage": "https://github.com/Happergy/landing#readme",
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.1.1",
+    "css-loader": "^3.4.2",
+    "mini-css-extract-plugin": "^0.9.0",
+    "postcss-loader": "^3.0.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.3",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.9",
+    "webpack-fix-style-only-entries": "^0.6.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.5"
+  }
+}

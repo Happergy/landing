@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de36b643-50cb-4335-a69c-9edc8c064ab4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_components.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_sliders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_widgets.scss" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_sections.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_sections.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/helpers/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/helpers/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/helpers/_spacings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/helpers/_spacings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/helpers/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/helpers/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +34,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../branches" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WebStorm\projects\landing\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WebStorm\projects\landing" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
