@@ -34,12 +34,23 @@ module.exports = () => {
               },
             },
             {
+              loader: 'resolve-url-loader',
+            },
+            {
               loader: 'sass-loader',
               options: {
                 sassOptions: {
                   includePaths: ['node_modules'],
                 },
               },
+            },
+          ],
+        },
+        {
+          test: /\.(png|jpe?g|gif)$/i,
+          use: [
+            {
+              loader: 'file-loader',
             },
           ],
         },

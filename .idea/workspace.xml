@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de36b643-50cb-4335-a69c-9edc8c064ab4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_sections.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_sections.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/components/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/helpers/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/helpers/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/helpers/_spacings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/helpers/_spacings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/helpers/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/helpers/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/_sections.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/_sections.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +47,9 @@
       <option name="presentableId" value="Default" />
       <updated>1611397509715</updated>
       <workItem from="1611397511030" duration="1209000" />
+      <workItem from="1611643191778" duration="598000" />
+      <workItem from="1611732624354" duration="599000" />
+      <workItem from="1612246518956" duration="2798000" />
     </task>
     <servers />
   </component>
@@ -65,9 +57,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611398012130">
+    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611559270851">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
-    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1611398012130" />
+    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1611559270851" />
+    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog" timestamp="1612249328099">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612249328099" />
+    <state x="1621" y="-1183" key="RollbackChangesDialog" timestamp="1611562438117">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1621" y="-1183" key="RollbackChangesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1611562438117" />
+    <state x="1595" y="-1151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1611559665450">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1595" y="-1151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1611559665450" />
+    <state x="1501" y="-1151" width="578" height="534" key="find.popup" timestamp="1612246752622">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1501" y="-1151" width="578" height="534" key="find.popup/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612246752622" />
+    <state x="1453" y="-1197" width="672" height="678" key="search.everywhere.popup" timestamp="1612247661782">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1453" y="-1197" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612247661782" />
   </component>
 </project>
