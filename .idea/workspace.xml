@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de36b643-50cb-4335-a69c-9edc8c064ab4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nSxtfLJg0dtvfTM0kTKEOueh0s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WebStorm\projects\landing\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WebStorm\projects\landing" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de36b643-50cb-4335-a69c-9edc8c064ab4" name="Default Changelist" comment="" />
+      <created>1611397509715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611397509715</updated>
+      <workItem from="1611397511030" duration="1209000" />
+      <workItem from="1611643191778" duration="598000" />
+      <workItem from="1611732624354" duration="599000" />
+      <workItem from="1612246518956" duration="2798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611559270851">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1611559270851" />
+    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog" timestamp="1612249328099">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612249328099" />
+    <state x="1621" y="-1183" key="RollbackChangesDialog" timestamp="1612253909357">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1621" y="-1183" key="RollbackChangesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612253909357" />
+    <state x="1595" y="-1151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1611559665450">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1595" y="-1151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1611559665450" />
+    <state x="1501" y="-1151" width="578" height="534" key="find.popup" timestamp="1612246752622">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1501" y="-1151" width="578" height="534" key="find.popup/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612246752622" />
+    <state x="1453" y="-1197" width="672" height="678" key="search.everywhere.popup" timestamp="1612247661782">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1453" y="-1197" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612247661782" />
+  </component>
+</project>
