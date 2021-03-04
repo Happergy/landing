@@ -15,6 +15,11 @@
     .brand-logo {
       position: relative;
       top: -2px;
+      width: 350px;
+
+      a {
+        padding: 24px;
+      }
     }
   }
   .main-menu{
@@ -26,7 +31,7 @@
       >a{
         @include desktops{
           color: #000000;
-          
+
 
           font-size: 16px;
           font-weight: 400;
@@ -117,7 +122,7 @@
       }
     }
   }
-  
+
   .header-btns {
     position: relative;
     display: flex;
@@ -137,11 +142,11 @@
     &.btns-group{
       margin: 0 -17px;
     }
-  
-    
+
+
   }
-  
-/*  Mobile Menu / Mean Menu Reset  */ 
+
+/*  Mobile Menu / Mean Menu Reset  */
 .hamburger-icon {
   font-size: 16px;
   color: $primary-color;
@@ -287,19 +292,20 @@
 
 
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Hero Area
 //////////////////////////// */
 
 .hero-area {
   background-color: #f5f5f8;
+  color: $black;
   z-index: 1;
   border-bottom: 1px solid #e5e5e5;
 }
 
 .hero-content {
   .title {
-    color: #000000;
+    // color: #000000;
     font-weight: 700;
     letter-spacing: -0.3px;
     @include mobile {
@@ -313,7 +319,7 @@
     }
   }
   p {
-    color: #000000;
+    // color: #000000;
     font-size: 16px;
     font-weight: 400;
     line-height: 30px;
@@ -332,45 +338,22 @@
 }
 
 .hero-btns {
-  margin-bottom: -15px;
-  .android {
-    margin-bottom: 15px;
-    i {
-      color: #fff;
-    }
-    span {
-      padding-left: 10px;
-      color: #fff;
-      font-weight: 600;
-      letter-spacing: 0;
-      &:hover {
-        color: #fff;
-      }
-    }
+  margin-bottom: 15px;
+  i {
+    color: #fff;
   }
-
-  .apple{
-    margin-bottom: 15px;
-    i {
-      color: #fff;
-    }
-    span {
-      padding-left: 10px;
-      color: #fff;
-      font-weight: 600;
-      letter-spacing: 0;
-      &:hover {
-        color: #fff;
-      }
-    }
+  span {
+    padding-left: 10px;
+    font-weight: 600;
+    letter-spacing: 0;
   }
 }
 
 .hero-ratings {
   display: flex;
   .trust-info {
-    color: #535659;
-    
+    // color: #535659;
+
 
     font-size: 16px;
     font-weight: 400;
@@ -460,13 +443,13 @@
   bottom: 0px;
   left: 0;
   z-index: -1;
-  
+
 }
 
 
 
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Feature Section
 //////////////////////////// */
 .feature-widget{
@@ -502,7 +485,7 @@
           font-size: 15px;
           font-weight: 500;
           padding-right: 0;
-          
+
         }
         @include desktops {
           font-size: 18px;
@@ -516,7 +499,7 @@
 }
 
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Content Section
 //////////////////////////// */
 .content-wrapper {
@@ -639,12 +622,12 @@
           flex: 50%;
           max-width: 50%;
           padding: 0 15px;
-      } 
+      }
       @include desktops{
           flex: 100%;
           max-width: 100%;
           padding: 0px;
-      } 
+      }
   }
 }
 
@@ -708,7 +691,7 @@ flex-direction: column;
   margin-right: 25px;
   @include mobile-lg{
       margin-bottom: 0px;
-      margin-left:0; 
+      margin-left:0;
   }
   @include tablet{
       margin-bottom: 15px;
@@ -721,13 +704,13 @@ flex-direction: column;
   i {
       transition: .4s;
   }
-  
+
 }
 &:hover {
   .widget-icon {
       i {
-          transform: rotateY(180deg);  
-      }        
+          transform: rotateY(180deg);
+      }
   }
 }
 }
@@ -736,7 +719,7 @@ flex-direction: column;
 
 
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Testimonial Section
 //////////////////////////// */
 .testimonial-section {
@@ -746,11 +729,11 @@ flex-direction: column;
       margin-bottom: 60px;
     }
     .testimonial-title {
-      color: #000000;
+      // color: ;
     }
 
     p {
-      color: #323232;
+      // color: #323232;
       font-size: 18px;
       line-height: 34px;
     }
@@ -761,7 +744,7 @@ flex-direction: column;
   .content {
     flex-basis: calc(100% - 100px);
     p {
-      color: #000000;
+      // color: #000000;
       font-size: 20px;
       font-weight: 400;
       line-height: 34px;
@@ -784,9 +767,7 @@ flex-direction: column;
     }
 
     .name {
-      color: #000000;
-      
-
+      color: $primary;
       font-size: 16px;
       font-weight: 700;
       line-height: 24px;
@@ -794,7 +775,7 @@ flex-direction: column;
     }
 
     .job {
-      color: #323232;
+      color: $secondary;
       font-size: 16px;
       font-weight: 400;
       line-height: 24px;
@@ -806,12 +787,12 @@ flex-direction: column;
   }
 
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Example Section
 //////////////////////////// */
 
 .example-section {
-  background-color: #222d3d;
+  background-color: $primary;
   z-index: 1;
   .section-title {
     margin-bottom: 20px;
@@ -819,22 +800,28 @@ flex-direction: column;
       margin-bottom: 60px;
     }
     p {
-      color: #dbe4f1;
+      color: $white;
     }
 
     .example-title {
-      color: #ffffff;
+      color: $white;
       margin-bottom: 22px;
     }
   }
 }
+
+.feature-widget .widget-icon {
+  color: $black;
+  opacity: 1;
+}
+
 .example-slider-wrapper{
   position: relative;
   margin-top: 20px;
   .slick-arrow {
     position: absolute;
     top: 50%;
-    left: 5%; 
+    left: 5%;
     font-size: 20px;
     width: 56px;
     height: 56px;
@@ -843,8 +830,8 @@ flex-direction: column;
     align-items: center;
     justify-content: center;
     transition: .4s;
-    background-color: #2780ff;
-    color: #fff;
+    background-color: $primary;
+    color: $black;
     transform: translateY(-50%);
     z-index:99;
     @include large-desktops-mid{
@@ -858,7 +845,7 @@ flex-direction: column;
         color: #000000;
     }
     &.slick-next{
-      left: auto; 
+      left: auto;
       right: 5%;
       @include extra-large-desktops{
         right: 20%;
@@ -890,8 +877,6 @@ flex-direction: column;
           opacity: 1;
         }
     }
-    
-    
   }
 }
 .example-image {
@@ -905,7 +890,7 @@ flex-direction: column;
     max-height: 662px;
     border-radius: 50px;
   }
-  
+
   img{
     @include brk-point(690px){
       width: 100%;
@@ -937,7 +922,7 @@ flex-direction: column;
     }
 }
 
-/* /////////////////////////// 
+/* ///////////////////////////
     CTA Section
 //////////////////////////// */
 
@@ -1037,8 +1022,8 @@ flex-direction: column;
 
 
 
-/* /////////////////////////// 
-    Footer Section 
+/* ///////////////////////////
+    Footer Section
 //////////////////////////// */
 .footer-section {
   border-bottom: 1px solid#e5e5e5;
@@ -1133,8 +1118,8 @@ flex-direction: column;
   width: 132px;
   height: 30px;
   border-radius: 15px;
-  background-color: #fa8231;
-  color: #fff;
+  background-color: $primary;
+  color: $pure-white;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1142,7 +1127,7 @@ flex-direction: column;
   margin-top: 25px;
   span {
     color: #ffffff;
-    
+
 
     font-size: 12px;
     font-weight: 600;

@@ -7,6 +7,7 @@
     "url": "git+https://github.com/Happergy/landing.git"
   },
   "scripts": {
+    "start": "yarn dev --watch",
     "dev": "webpack -d",
     "pro": "webpack -p"
   },

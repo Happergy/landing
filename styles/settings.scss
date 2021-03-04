@@ -12,7 +12,7 @@ body {
     font-family: $primary-font;
     font-size: 14px;
     line-height: 1.6;
-    color: #1f1f1f;
+    color: $black;
     background: $body-color;
 }
 .site-wrapper{
@@ -50,11 +50,11 @@ a {
     &:hover {
         text-decoration: none;
     }
-    
+
     &:visited {
         text-decoration: none;
     }
-    
+
 }
 
 input[type=number]::-webkit-inner-spin-button,
@@ -173,7 +173,7 @@ input[type="number"] {
     justify-content: center;
     align-items: center;
 }
- 
+
 /* Typography */
 
 .text--primary{
@@ -197,13 +197,3 @@ color: $primary-color;
 from {opacity: 0;}
 to {opacity: 1;}
 }
-
-
-
-
-
-
-
-
-  
-

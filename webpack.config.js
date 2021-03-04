@@ -23,24 +23,24 @@ module.exports = () => {
           use: [
             { loader: MiniCssExtractPlugin.loader },
             {
-              loader: 'css-loader',
+              loader: "css-loader",
             },
             {
-              loader: 'postcss-loader',
+              loader: "postcss-loader",
               options: {
                 config: {
-                  path: './webpack/postcss.config.js',
+                  path: "./webpack/postcss.config.js",
                 },
               },
             },
             {
-              loader: 'resolve-url-loader',
+              loader: "resolve-url-loader",
             },
             {
-              loader: 'sass-loader',
+              loader: "sass-loader",
               options: {
                 sassOptions: {
-                  includePaths: ['node_modules'],
+                  includePaths: ["node_modules"],
                 },
               },
             },
@@ -50,23 +50,23 @@ module.exports = () => {
           test: /\.(png|jpe?g|gif|woff|woff2)$/i,
           use: [
             {
-              loader: 'file-loader',
+              loader: "file-loader",
             },
           ],
         },
       ],
     },
-    plugins: (() => ([
+    plugins: (() => [
       new FixStyleOnlyEntriesPlugin(),
       new MiniCssExtractPlugin({
-        filename: 'styles.css',
+        filename: "styles.css",
       }),
       new CopyWebpackPlugin([
         {
-          from: './public',
-          to: '',
+          from: "./public",
+          to: "",
         },
       ]),
-    ]))(),
+    ])(),
   };
 };
