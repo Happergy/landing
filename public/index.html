@@ -6,15 +6,15 @@
     <meta name="description" content="Controla los mejores precios de la luz y planifica tus electrodomesticos.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, minimum-scale=1">
     <meta name="apple-mobile-web-app-title" content="Happergy">
-    <link rel="apple-touch-icon" sizes="180x180" href="icons/icon-180x180.png">
-    <link rel="icon" type="image/png" href="icons/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./icons/icon-180x180.png">
+    <link rel="icon" type="image/png" href="./icons/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <!-- Plugins CSS -->
-    <link rel="stylesheet" href="plugins/bootstrap-4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./plugins/bootstrap-4.3.1/css/bootstrap.min.css" />
     <!-- fonts -->
-    <link rel="stylesheet" href="fonts/ep-icon-fonts/css/style.css" />
-    <link rel="stylesheet" href="fonts/fontawesome-5/css/all.min.css" />
-    <link rel="stylesheet" href="fonts/typography-font/typo-fonts.css" />
+    <link rel="stylesheet" href="./fonts/ep-icon-fonts/css/style.css" />
+    <link rel="stylesheet" href="./fonts/fontawesome-5/css/all.min.css" />
+    <link rel="stylesheet" href="./fonts/typography-font/typo-fonts.css" />
     <!-- Custom Stylesheet -->
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -74,9 +74,9 @@
                 <div class="absolute-image image-2 d-none d-lg-block">
                       <img loading="lazy" src="image/hero-phone-2.png" alt="">
                 </div>
-                <div class="phn-shape">
+                <!--<div class="phn-shape">
                   <img loading="lazy" src="image/phn-shape.png" alt="" />
-                </div>
+                </div>-->
               </div>
             </div>
           </div>
@@ -483,5 +483,8 @@
         </div>
       </section>
     </div>
+    <script>
+      navigator.serviceWorker.getRegistrations().then( function(registrations) { for(let registration of registrations) { registration.unregister(); } });
+    </script>
   </body>
 </html>
