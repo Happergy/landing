@@ -81,32 +81,6 @@ span{
     box-shadow: none;
 }
 
-button {
-    cursor: pointer;
-    background: transparent;
-    border: none;
-    &:focus {
-        outline: none;
-    }
-}
-
-
-input[type="number"]::-webkit-outer-spin-button,
-input[type="number"]::-webkit-inner-spin-button {
-    -webkit-appearance: none;
-    margin: 0;
-}
-
-input[type="number"] {
-    -moz-appearance: textfield;
-}
-
-.form-control{
-    &:focus{
-        box-shadow: none;
-    }
-}
-
 /* Common Classes */
 
 .section-title {
@@ -123,6 +97,7 @@ input[type="number"] {
       line-height: 34px;
     }
   }
+
 /* Spacing */
 
 .section-padding {
@@ -148,52 +123,8 @@ input[type="number"] {
     }
 }
 
-/* Background Image */
-.bg-image{
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.shape-holder{
-    position:absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    img{
-        width: 100%;
-        max-width: initial;
-    }
-}
-
-/* Flex */
-
-.flex-all-center{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-}
-
-/* Typography */
-
-.text--primary{
-color: $primary-color;
-}
-
-.fs-inherit{
-    font-size: inherit;
-}
-
 /* Border */
 
 .section-divider {
     border: 1px solid #e8e8ea;
-}
-
-/* Animation */
-
-/* Go from zero to full opacity */
-@keyframes fadeEffect {
-from {opacity: 0;}
-to {opacity: 1;}
 }
