@@ -1,4 +1,14 @@
-# 1.4.0 (2021-03-04)
+# [1.6.0](https://github.com/Happergy/landing/compare/v1.4.0...v1.6.0) (2021-03-11)
+
+
+### Features
+
+* add necessary spacing style ([e373e2d](https://github.com/Happergy/landing/commit/e373e2d28129f7cf0a37b79edf711086ea8960f1))
+* clean unused styles ([e6169d0](https://github.com/Happergy/landing/commit/e6169d08e70d0c957c889e88d0cae8da67f77098))
+
+
+
+# [1.4.0](https://github.com/Happergy/landing/compare/74710efc0ee0e10c22637ca2cd219e1d9a12bdaa...v1.4.0) (2021-03-04)
 
 
 ### Bug Fixes
