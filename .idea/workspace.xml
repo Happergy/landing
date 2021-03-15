@@ -6,9 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de36b643-50cb-4335-a69c-9edc8c064ab4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +69,26 @@
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
     <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612249328099" />
-    <state x="1621" y="-1183" key="RollbackChangesDialog" timestamp="1614882297738">
+    <state width="2027" height="305" key="GridCell.Tab.0.bottom" timestamp="1615443885218">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
-    <state x="1621" y="-1183" key="RollbackChangesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1614882297738" />
+    <state width="2027" height="305" key="GridCell.Tab.0.bottom/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1615443885218" />
+    <state width="2027" height="305" key="GridCell.Tab.0.center" timestamp="1615443885218">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="305" key="GridCell.Tab.0.center/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1615443885218" />
+    <state width="2027" height="305" key="GridCell.Tab.0.left" timestamp="1615443885218">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="305" key="GridCell.Tab.0.left/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1615443885218" />
+    <state width="2027" height="305" key="GridCell.Tab.0.right" timestamp="1615443885218">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="305" key="GridCell.Tab.0.right/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1615443885218" />
+    <state x="1621" y="-1183" key="RollbackChangesDialog" timestamp="1615443017388">
+      <screen x="766" y="-1440" width="2048" height="1112" />
+    </state>
+    <state x="1621" y="-1183" key="RollbackChangesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1615443017388" />
     <state x="1595" y="-1151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1611559665450">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
