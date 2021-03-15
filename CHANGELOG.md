@@ -1,3 +1,12 @@
+# [1.7.0](https://github.com/Happergy/landing/compare/v1.6.0...v1.7.0) (2021-03-15)
+
+
+### Features
+
+* add analytics event ([dbe1bed](https://github.com/Happergy/landing/commit/dbe1bedfa18f68a653917ceb15b5077ce57deafc))
+
+
+
 # [1.6.0](https://github.com/Happergy/landing/compare/v1.4.0...v1.6.0) (2021-03-11)
 
 
