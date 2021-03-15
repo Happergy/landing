@@ -1,3 +1,12 @@
+# [1.8.0](https://github.com/Happergy/landing/compare/v1.7.0...v1.8.0) (2021-03-15)
+
+
+### Features
+
+* add firebase scripts ([980b0c4](https://github.com/Happergy/landing/commit/980b0c422e1750dc6cd4968f2b3723ed76e2bece))
+
+
+
 # [1.7.0](https://github.com/Happergy/landing/compare/v1.6.0...v1.7.0) (2021-03-15)
 
 
