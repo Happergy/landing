@@ -1,3 +1,12 @@
+# [1.9.0](https://github.com/Happergy/landing/compare/v1.8.0...v1.9.0) (2021-03-15)
+
+
+### Features
+
+* refactor how send an analytics event ([118ece5](https://github.com/Happergy/landing/commit/118ece5626992358d71726fa9341c1a536f3a110))
+
+
+
 # [1.8.0](https://github.com/Happergy/landing/compare/v1.7.0...v1.8.0) (2021-03-15)
 
 
