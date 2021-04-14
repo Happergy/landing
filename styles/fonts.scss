@@ -7,9 +7,17 @@
 }
 
 @font-face {
-  font-family: 'Noto Sans';
+  font-family: 'Merriweather';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('Noto Sans'), local('NotoSans'), url(../public/fonts/notosans.woff2) format('woff2');
+  src: local('Merriweather'), local('Merriweather'), url(../public/fonts/merriweather.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Lato'), local('Lato'), url(../public/fonts/lato.woff2) format('woff2');
 }

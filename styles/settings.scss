@@ -42,8 +42,9 @@ span {
 }
 
 a {
-    transition: 0.4s;
     color: inherit;
+    font-family: 'Lato', sans-serif;
+    transition: 0.4s;
     &:focus {
         outline: none !important;
     }
