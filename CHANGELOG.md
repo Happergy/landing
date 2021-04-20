@@ -1,3 +1,12 @@
+# [1.12.0](https://github.com/Happergy/landing/compare/v1.11.0...v1.12.0) (2021-04-20)
+
+
+### Features
+
+* add invite pizza link ([f94973a](https://github.com/Happergy/landing/commit/f94973a1e3d3df36624a24c89eb8b010e21111f5))
+
+
+
 # [1.11.0](https://github.com/Happergy/landing/compare/v1.10.0...v1.11.0) (2021-04-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add firebase scripts ([980b0c4](https://github.com/Happergy/landing/commit/980b0c422e1750dc6cd4968f2b3723ed76e2bece))
-
-
-
-# [1.7.0](https://github.com/Happergy/landing/compare/v1.6.0...v1.7.0) (2021-03-15)
-
-
-### Features
-
-* add analytics event ([dbe1bed](https://github.com/Happergy/landing/commit/dbe1bedfa18f68a653917ceb15b5077ce57deafc))
 
 
 
