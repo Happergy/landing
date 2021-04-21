@@ -1,3 +1,12 @@
+# [1.13.0](https://github.com/Happergy/landing/compare/v1.12.0...v1.13.0) (2021-04-21)
+
+
+### Features
+
+* update screenshots ([a64adfb](https://github.com/Happergy/landing/commit/a64adfb8b905fabda0f284372b5c4da2bbdcbb28))
+
+
+
 # [1.12.0](https://github.com/Happergy/landing/compare/v1.11.0...v1.12.0) (2021-04-20)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * refactor how send an analytics event ([118ece5](https://github.com/Happergy/landing/commit/118ece5626992358d71726fa9341c1a536f3a110))
-
-
-
-# [1.8.0](https://github.com/Happergy/landing/compare/v1.7.0...v1.8.0) (2021-03-15)
-
-
-### Features
-
-* add firebase scripts ([980b0c4](https://github.com/Happergy/landing/commit/980b0c422e1750dc6cd4968f2b3723ed76e2bece))
 
 
 
