@@ -1,3 +1,12 @@
+# [1.14.0](https://github.com/Happergy/landing/compare/v1.13.0...v1.14.0) (2021-04-23)
+
+
+### Features
+
+* add plausible ([94e5466](https://github.com/Happergy/landing/commit/94e5466cc372e7984b47761cf09ed290af5bacbd))
+
+
+
 # [1.13.0](https://github.com/Happergy/landing/compare/v1.12.0...v1.13.0) (2021-04-21)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update fonts ([b3a45af](https://github.com/Happergy/landing/commit/b3a45af177b8f89d7a25a42c842b0c5315ea7ed8))
-
-
-
-# [1.9.0](https://github.com/Happergy/landing/compare/v1.8.0...v1.9.0) (2021-03-15)
-
-
-### Features
-
-* refactor how send an analytics event ([118ece5](https://github.com/Happergy/landing/commit/118ece5626992358d71726fa9341c1a536f3a110))
 
 
 
