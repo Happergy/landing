@@ -1,3 +1,12 @@
+# [1.15.0](https://github.com/Happergy/landing/compare/v1.14.0...v1.15.0) (2021-06-10)
+
+
+### Features
+
+* update description ([1ea1041](https://github.com/Happergy/landing/commit/1ea10415777dc08ee6e0249b5163328aaac700f4))
+
+
+
 # [1.14.0](https://github.com/Happergy/landing/compare/v1.13.0...v1.14.0) (2021-04-23)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update colors of title ([f2978cf](https://github.com/Happergy/landing/commit/f2978cfab409132bfd7c98582b01f29948544808))
-
-
-
-# [1.10.0](https://github.com/Happergy/landing/compare/v1.9.0...v1.10.0) (2021-04-14)
-
-
-### Features
-
-* update fonts ([b3a45af](https://github.com/Happergy/landing/commit/b3a45af177b8f89d7a25a42c842b0c5315ea7ed8))
 
 
 
