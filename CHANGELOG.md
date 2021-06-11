@@ -1,3 +1,12 @@
+# [1.16.0](https://github.com/Happergy/landing/compare/v1.15.0...v1.16.0) (2021-06-11)
+
+
+### Features
+
+* update tariff descriptions and fix spelling errors ([c35cb70](https://github.com/Happergy/landing/commit/c35cb706be3b62e97e7d340779b58e13be6d9183))
+
+
+
 # [1.15.0](https://github.com/Happergy/landing/compare/v1.14.0...v1.15.0) (2021-06-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add invite pizza link ([f94973a](https://github.com/Happergy/landing/commit/f94973a1e3d3df36624a24c89eb8b010e21111f5))
-
-
-
-# [1.11.0](https://github.com/Happergy/landing/compare/v1.10.0...v1.11.0) (2021-04-15)
-
-
-### Features
-
-* update colors of title ([f2978cf](https://github.com/Happergy/landing/commit/f2978cfab409132bfd7c98582b01f29948544808))
 
 
 
