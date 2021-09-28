@@ -1,3 +1,12 @@
+# [1.17.0](https://github.com/Happergy/landing/compare/v1.16.0...v1.17.0) (2021-09-22)
+
+
+### Features
+
+* update analitica ([64af02f](https://github.com/Happergy/landing/commit/64af02f3f88ff480e74dc1f7f193618ed0ea3837))
+
+
+
 # [1.16.0](https://github.com/Happergy/landing/compare/v1.15.0...v1.16.0) (2021-06-11)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update screenshots ([a64adfb](https://github.com/Happergy/landing/commit/a64adfb8b905fabda0f284372b5c4da2bbdcbb28))
-
-
-
-# [1.12.0](https://github.com/Happergy/landing/compare/v1.11.0...v1.12.0) (2021-04-20)
-
-
-### Features
-
-* add invite pizza link ([f94973a](https://github.com/Happergy/landing/commit/f94973a1e3d3df36624a24c89eb8b010e21111f5))
 
 
 
