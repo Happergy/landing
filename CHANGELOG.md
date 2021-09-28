@@ -1,3 +1,12 @@
+# [1.18.0](https://github.com/Happergy/landing/compare/v1.17.0...v1.18.0) (2021-09-28)
+
+
+### Features
+
+* add event tracking ([eb97593](https://github.com/Happergy/landing/commit/eb975939c04cc3ae492708bcf6d92ac70e7242c1))
+
+
+
 # [1.17.0](https://github.com/Happergy/landing/compare/v1.16.0...v1.17.0) (2021-09-22)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add plausible ([94e5466](https://github.com/Happergy/landing/commit/94e5466cc372e7984b47761cf09ed290af5bacbd))
-
-
-
-# [1.13.0](https://github.com/Happergy/landing/compare/v1.12.0...v1.13.0) (2021-04-21)
-
-
-### Features
-
-* update screenshots ([a64adfb](https://github.com/Happergy/landing/commit/a64adfb8b905fabda0f284372b5c4da2bbdcbb28))
 
 
 
