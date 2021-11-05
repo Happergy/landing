@@ -1,3 +1,12 @@
+# [1.19.0](https://github.com/Happergy/landing/compare/v1.18.0...v1.19.0) (2021-11-05)
+
+
+### Features
+
+* update tracking ([80db280](https://github.com/Happergy/landing/commit/80db28070ec4888f426427a74fe1f3ac7913bafb))
+
+
+
 # [1.18.0](https://github.com/Happergy/landing/compare/v1.17.0...v1.18.0) (2021-09-28)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update description ([1ea1041](https://github.com/Happergy/landing/commit/1ea10415777dc08ee6e0249b5163328aaac700f4))
-
-
-
-# [1.14.0](https://github.com/Happergy/landing/compare/v1.13.0...v1.14.0) (2021-04-23)
-
-
-### Features
-
-* add plausible ([94e5466](https://github.com/Happergy/landing/commit/94e5466cc372e7984b47761cf09ed290af5bacbd))
 
 
 
