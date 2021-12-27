@@ -6,15 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de36b643-50cb-4335-a69c-9edc8c064ab4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/fonts/lato.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/merriweather.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/notosans.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/components/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/helpers/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/helpers/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
       <recent name="C:\WebStorm\projects\landing" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.start">
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -90,6 +85,8 @@
       <workItem from="1611732624354" duration="599000" />
       <workItem from="1612246518956" duration="2798000" />
       <workItem from="1618421936135" duration="3516000" />
+      <workItem from="1632892419393" duration="892000" />
+      <workItem from="1640582013914" duration="1585000" />
     </task>
     <servers />
   </component>
@@ -100,54 +97,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1509" y="-1083" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618422497803">
+    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog" timestamp="1640583605904">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
-    <state x="1509" y="-1083" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1618422497803" />
-    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618422826453">
+    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1640583605904" />
+    <state width="2027" height="324" key="GridCell.Tab.0.bottom" timestamp="1640583140320">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
-    <state x="1521" y="-1138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1618422826453" />
-    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog" timestamp="1612249328099">
+    <state width="2027" height="324" key="GridCell.Tab.0.bottom/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1640583140320" />
+    <state width="2027" height="324" key="GridCell.Tab.0.center" timestamp="1640583140320">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
-    <state x="859" y="-1347" width="1862" height="926" key="DiffContextDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612249328099" />
-    <state width="1259" height="164" key="GridCell.Tab.0.bottom" timestamp="1618426461279">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="164" key="GridCell.Tab.0.bottom/0.0.1280.680/766.-1440.2048.1112@0.0.1280.680" timestamp="1618426461279" />
-    <state width="2027" height="305" key="GridCell.Tab.0.bottom/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1618422738970" />
-    <state width="1259" height="164" key="GridCell.Tab.0.center" timestamp="1618426461279">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="164" key="GridCell.Tab.0.center/0.0.1280.680/766.-1440.2048.1112@0.0.1280.680" timestamp="1618426461279" />
-    <state width="2027" height="305" key="GridCell.Tab.0.center/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1618422738970" />
-    <state width="1259" height="164" key="GridCell.Tab.0.left" timestamp="1618426461279">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="164" key="GridCell.Tab.0.left/0.0.1280.680/766.-1440.2048.1112@0.0.1280.680" timestamp="1618426461279" />
-    <state width="2027" height="305" key="GridCell.Tab.0.left/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1618422738970" />
-    <state width="1259" height="164" key="GridCell.Tab.0.right" timestamp="1618426461279">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="164" key="GridCell.Tab.0.right/0.0.1280.680/766.-1440.2048.1112@0.0.1280.680" timestamp="1618426461279" />
-    <state width="2027" height="305" key="GridCell.Tab.0.right/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1618422738970" />
-    <state x="1621" y="-1183" key="RollbackChangesDialog" timestamp="1615443017388">
+    <state width="2027" height="324" key="GridCell.Tab.0.center/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1640583140320" />
+    <state width="2027" height="324" key="GridCell.Tab.0.left" timestamp="1640583140320">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
-    <state x="1621" y="-1183" key="RollbackChangesDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1615443017388" />
-    <state x="1595" y="-1151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1611559665450">
+    <state width="2027" height="324" key="GridCell.Tab.0.left/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1640583140320" />
+    <state width="2027" height="324" key="GridCell.Tab.0.right" timestamp="1640583140320">
       <screen x="766" y="-1440" width="2048" height="1112" />
     </state>
-    <state x="1595" y="-1151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1611559665450" />
-    <state x="459" y="146" width="545" height="534" key="find.popup" timestamp="1618426367338">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="459" y="146" width="545" height="534" key="find.popup/0.0.1280.680/766.-1440.2048.1112@0.0.1280.680" timestamp="1618426367338" />
-    <state x="1501" y="-1151" width="578" height="534" key="find.popup/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612246752622" />
-    <state x="1453" y="-1197" width="672" height="678" key="search.everywhere.popup" timestamp="1612247661782">
-      <screen x="766" y="-1440" width="2048" height="1112" />
-    </state>
-    <state x="1453" y="-1197" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1612247661782" />
+    <state width="2027" height="324" key="GridCell.Tab.0.right/0.0.1280.680/766.-1440.2048.1112@766.-1440.2048.1112" timestamp="1640583140320" />
   </component>
 </project>
