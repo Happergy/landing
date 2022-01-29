@@ -1,3 +1,13 @@
+# [1.20.0](https://github.com/Happergy/landing/compare/v1.19.0...v1.20.0) (2022-01-29)
+
+
+### Features
+
+* add keywords ([93f398b](https://github.com/Happergy/landing/commit/93f398b3e2be322e4a4b05d33754ee1f6e52ed19))
+* improve our seo of landing ([6e4b4e7](https://github.com/Happergy/landing/commit/6e4b4e7c4873b346fa9fd2749c99d0cc604882d6))
+
+
+
 # [1.19.0](https://github.com/Happergy/landing/compare/v1.18.0...v1.19.0) (2021-11-05)
 
 
@@ -31,15 +41,6 @@
 ### Features
 
 * update tariff descriptions and fix spelling errors ([c35cb70](https://github.com/Happergy/landing/commit/c35cb706be3b62e97e7d340779b58e13be6d9183))
-
-
-
-# [1.15.0](https://github.com/Happergy/landing/compare/v1.14.0...v1.15.0) (2021-06-10)
-
-
-### Features
-
-* update description ([1ea1041](https://github.com/Happergy/landing/commit/1ea10415777dc08ee6e0249b5163328aaac700f4))
 
 
 
