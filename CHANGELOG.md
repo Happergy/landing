@@ -1,3 +1,13 @@
+# [1.21.0](https://github.com/Happergy/landing/compare/v1.20.0...v1.21.0) (2023-01-18)
+
+
+### Features
+
+* delete pvpc video ([925a71b](https://github.com/Happergy/landing/commit/925a71b2fd5b76b1c585939eff68f4aa8953775a))
+* update images ([bea4b0e](https://github.com/Happergy/landing/commit/bea4b0e367ea3c515bde0b80513ed8dc173ce510))
+
+
+
 # [1.20.0](https://github.com/Happergy/landing/compare/v1.19.0...v1.20.0) (2022-01-29)
 
 
@@ -32,15 +42,6 @@
 ### Features
 
 * update analitica ([64af02f](https://github.com/Happergy/landing/commit/64af02f3f88ff480e74dc1f7f193618ed0ea3837))
-
-
-
-# [1.16.0](https://github.com/Happergy/landing/compare/v1.15.0...v1.16.0) (2021-06-11)
-
-
-### Features
-
-* update tariff descriptions and fix spelling errors ([c35cb70](https://github.com/Happergy/landing/commit/c35cb706be3b62e97e7d340779b58e13be6d9183))
 
 
 
