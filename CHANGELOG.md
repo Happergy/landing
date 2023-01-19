@@ -1,3 +1,17 @@
+# [1.22.0](https://github.com/Happergy/landing/compare/v1.21.0...v1.22.0) (2023-01-19)
+
+
+### Bug Fixes
+
+* fix logo centered on mobile ([eeda96f](https://github.com/Happergy/landing/commit/eeda96f464a448b002a50f165286ab8c3de9a03c))
+
+
+### Features
+
+* clean firebase analytics ([94e5f81](https://github.com/Happergy/landing/commit/94e5f816d30fa4be67a1cdaed50573a879742357))
+
+
+
 # [1.21.0](https://github.com/Happergy/landing/compare/v1.20.0...v1.21.0) (2023-01-18)
 
 
@@ -33,15 +47,6 @@
 ### Features
 
 * add event tracking ([eb97593](https://github.com/Happergy/landing/commit/eb975939c04cc3ae492708bcf6d92ac70e7242c1))
-
-
-
-# [1.17.0](https://github.com/Happergy/landing/compare/v1.16.0...v1.17.0) (2021-09-22)
-
-
-### Features
-
-* update analitica ([64af02f](https://github.com/Happergy/landing/commit/64af02f3f88ff480e74dc1f7f193618ed0ea3837))
 
 
 
