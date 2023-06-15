@@ -1,3 +1,19 @@
+# [1.24.0](https://github.com/Happergy/landing/compare/v1.22.0...v1.24.0) (2023-06-15)
+
+
+### Features
+
+* add new customers photo and correct ortography ([74479d8](https://github.com/Happergy/landing/commit/74479d823c63b4a82339dee0874e7bb214eb277f))
+* add new introduction and benefits sections ([da1081f](https://github.com/Happergy/landing/commit/da1081f7f80cf628ca70d9bcb2ac3e4e3fd7dd1e))
+* configure node version ([91746b1](https://github.com/Happergy/landing/commit/91746b1de388c40a19333075676044dd6a5607d8))
+* configure node version ([f0872b1](https://github.com/Happergy/landing/commit/f0872b16b95f2a6817525d2d4a3845432b82ebba))
+* configure node version ([be09452](https://github.com/Happergy/landing/commit/be09452742b46164b6cae0935ae51ac936d03588))
+* update content ([69010af](https://github.com/Happergy/landing/commit/69010afae4ca9001a610701b2348fe6c1977f371))
+* update content ([c2cbb52](https://github.com/Happergy/landing/commit/c2cbb520e44365c5ca5bfb41a4199432fec1cdf1))
+* update package version ([fc28234](https://github.com/Happergy/landing/commit/fc28234af7ab4bd9cae00718fb48c7b5a2643aa9))
+
+
+
 # [1.22.0](https://github.com/Happergy/landing/compare/v1.21.0...v1.22.0) (2023-01-19)
 
 
@@ -38,15 +54,6 @@
 ### Features
 
 * update tracking ([80db280](https://github.com/Happergy/landing/commit/80db28070ec4888f426427a74fe1f3ac7913bafb))
-
-
-
-# [1.18.0](https://github.com/Happergy/landing/compare/v1.17.0...v1.18.0) (2021-09-28)
-
-
-### Features
-
-* add event tracking ([eb97593](https://github.com/Happergy/landing/commit/eb975939c04cc3ae492708bcf6d92ac70e7242c1))
 
 
 
