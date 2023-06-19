@@ -1,3 +1,13 @@
+# [1.25.0](https://github.com/Happergy/landing/compare/v1.24.0...v1.25.0) (2023-06-19)
+
+
+### Features
+
+* add space under mobile phone ([2edaaa0](https://github.com/Happergy/landing/commit/2edaaa097d6529e47d1a4d7cc5d07266c957055b))
+* update introduction styles ([9ca75ef](https://github.com/Happergy/landing/commit/9ca75efc6a82e9b351efd18fa660bc544b6830f7))
+
+
+
 # [1.24.0](https://github.com/Happergy/landing/compare/v1.22.0...v1.24.0) (2023-06-15)
 
 
@@ -45,15 +55,6 @@
 
 * add keywords ([93f398b](https://github.com/Happergy/landing/commit/93f398b3e2be322e4a4b05d33754ee1f6e52ed19))
 * improve our seo of landing ([6e4b4e7](https://github.com/Happergy/landing/commit/6e4b4e7c4873b346fa9fd2749c99d0cc604882d6))
-
-
-
-# [1.19.0](https://github.com/Happergy/landing/compare/v1.18.0...v1.19.0) (2021-11-05)
-
-
-### Features
-
-* update tracking ([80db280](https://github.com/Happergy/landing/commit/80db28070ec4888f426427a74fe1f3ac7913bafb))
 
 
 
