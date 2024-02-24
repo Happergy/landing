@@ -1,3 +1,12 @@
+# [1.26.0](https://github.com/Happergy/landing/compare/v1.25.0...v1.26.0) (2024-02-24)
+
+
+### Features
+
+* update year ([4da4469](https://github.com/Happergy/landing/commit/4da44696a290b99cecdc5c767461d8e9254900cc))
+
+
+
 # [1.25.0](https://github.com/Happergy/landing/compare/v1.24.0...v1.25.0) (2023-06-19)
 
 
@@ -45,16 +54,6 @@
 
 * delete pvpc video ([925a71b](https://github.com/Happergy/landing/commit/925a71b2fd5b76b1c585939eff68f4aa8953775a))
 * update images ([bea4b0e](https://github.com/Happergy/landing/commit/bea4b0e367ea3c515bde0b80513ed8dc173ce510))
-
-
-
-# [1.20.0](https://github.com/Happergy/landing/compare/v1.19.0...v1.20.0) (2022-01-29)
-
-
-### Features
-
-* add keywords ([93f398b](https://github.com/Happergy/landing/commit/93f398b3e2be322e4a4b05d33754ee1f6e52ed19))
-* improve our seo of landing ([6e4b4e7](https://github.com/Happergy/landing/commit/6e4b4e7c4873b346fa9fd2749c99d0cc604882d6))
 
 
 
