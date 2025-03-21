@@ -1,3 +1,12 @@
+# [1.28.0](https://github.com/Happergy/landing/compare/v1.27.0...v1.28.0) (2025-03-21)
+
+
+### Features
+
+* **landing:** update year ([9dd0d3c](https://github.com/Happergy/landing/commit/9dd0d3cb141cd9e7c8d37e0d8a43827e75ba1bf8))
+
+
+
 # [1.27.0](https://github.com/Happergy/landing/compare/v1.26.0...v1.27.0) (2025-03-21)
 
 
@@ -39,20 +48,6 @@
 * update content ([69010af](https://github.com/Happergy/landing/commit/69010afae4ca9001a610701b2348fe6c1977f371))
 * update content ([c2cbb52](https://github.com/Happergy/landing/commit/c2cbb520e44365c5ca5bfb41a4199432fec1cdf1))
 * update package version ([fc28234](https://github.com/Happergy/landing/commit/fc28234af7ab4bd9cae00718fb48c7b5a2643aa9))
-
-
-
-# [1.22.0](https://github.com/Happergy/landing/compare/v1.21.0...v1.22.0) (2023-01-19)
-
-
-### Bug Fixes
-
-* fix logo centered on mobile ([eeda96f](https://github.com/Happergy/landing/commit/eeda96f464a448b002a50f165286ab8c3de9a03c))
-
-
-### Features
-
-* clean firebase analytics ([94e5f81](https://github.com/Happergy/landing/commit/94e5f816d30fa4be67a1cdaed50573a879742357))
 
 
 
