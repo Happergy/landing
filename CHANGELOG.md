@@ -1,3 +1,12 @@
+# [1.27.0](https://github.com/Happergy/landing/compare/v1.26.0...v1.27.0) (2025-03-21)
+
+
+### Features
+
+* **landing:** add chatbot ([4472636](https://github.com/Happergy/landing/commit/447263649240a4217cefa9a9d2cd2f37a3a83684))
+
+
+
 # [1.26.0](https://github.com/Happergy/landing/compare/v1.25.0...v1.26.0) (2024-02-24)
 
 
@@ -44,16 +53,6 @@
 ### Features
 
 * clean firebase analytics ([94e5f81](https://github.com/Happergy/landing/commit/94e5f816d30fa4be67a1cdaed50573a879742357))
-
-
-
-# [1.21.0](https://github.com/Happergy/landing/compare/v1.20.0...v1.21.0) (2023-01-18)
-
-
-### Features
-
-* delete pvpc video ([925a71b](https://github.com/Happergy/landing/commit/925a71b2fd5b76b1c585939eff68f4aa8953775a))
-* update images ([bea4b0e](https://github.com/Happergy/landing/commit/bea4b0e367ea3c515bde0b80513ed8dc173ce510))
 
 
 
